@@ -1,0 +1,51 @@
+h3
+{
+    color:blue;
+    
+}
+
+.main{
+    border:2px solid;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+    height:60%
+    
+    
+
+}
+.image 
+{
+    font-size:15px;
+    display:flex;
+    justify-content:space-between;
+
+}
+
+.sub
+{
+    border:2px solid;
+    width:100%;
+    font-size:20px;
+    
+}
+hr{
+
+    border:2px solid blue;
+}
+.button
+{
+    background-color:cornflowerblue;
+    padding:15px 32px;
+    margin:4px 2px;
+    font-size:16px;
+    color:white;
+}
+
+input[type=text]{
+    background-color: beige;
+
+}
+input[type=password]{
+    background-color: beige;
+}
